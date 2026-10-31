@@ -1,16 +1,30 @@
-# idcard
+# College ID Card App
 
-A new Flutter project.
+A simple single-screen Flutter application that digitally displays my college ID card.
+
+The app recreates the original college ID card design as closely as possible using Flutter widgets and reusable components.
+
+## Features
+
+- Accurate recreation of the original college ID card design.
+- Built using reusable Flutter widgets and components.
+- Single-page interface with no complex navigation.
+- Displays college and student details in a digital ID card format.
+
+## Tech Stack
+
+- Flutter
+- Dart
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone git@github.com:HarshithPancheru/IdCard.git
+cd IdCard
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Purpose
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built as a simple Flutter project to practice UI development, widget composition, and recreating an existing design using Flutter.
